@@ -1,6 +1,6 @@
 import React from "react";
 import Ax from "../../hoc/Ax";
-import Classes from "./Layout.css";
+import Classes from "./Layout.module.css";
 
 const layout = props => (
   <Ax>
